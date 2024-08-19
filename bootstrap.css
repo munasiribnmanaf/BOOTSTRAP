@@ -1,0 +1,234 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.head{
+    background-image: url(./img/models.jpg);
+    /* width: 100%; */
+    height: 780px;
+    background-size: cover;
+}
+.one i{
+color: #fff;
+width: 30px;
+
+}
+.one{
+    margin-left: 380px;
+    
+}
+.two img{
+    margin-left: 190px;
+    margin-top: 10px;
+}
+.three button{
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    font-weight: bold ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.three{
+    margin-left: 370px;
+    margin-top: -31px;
+   
+}
+.three ul li{
+    font-size: 18px;
+}
+.three ul li :hover{
+
+}
+.four{
+    margin-left: 590px;
+    margin-top: -39px;
+   
+}
+.four button{
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    font-weight: bold ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.le{
+    color: white;
+    font-size: 18px;
+    font-weight: bold ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 48%;
+    margin-top: -32px;
+}
+.fa{
+    color: white;
+    font-size: 18px;
+    font-weight: bold ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 54%;
+    margin-top: -42px;
+}
+.es{
+    color: white;
+    font-size: 17px;
+    font-weight: bold ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 58%;
+    margin-top: -42px;
+}
+.five{
+    margin-left: 68%;
+    margin-top: -46px;
+}
+.five button{
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    font-weight: bold ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.five button:hover{
+    background-color: transparent !important;
+}
+.six i{
+    font-size: 25px;
+    width: 26px;
+    
+}
+.six{
+    margin-left: 75%;
+    margin-top: -30px;
+    
+}
+.seven{
+    margin-left: 84%;
+    margin-top: -40px;
+}
+.seven button{
+    height: 45px;
+    width: 110px;
+    background-image: linear-gradient(to right,purple,red,pink);
+    border: none;
+    
+}
+.seven button:hover{
+    /* background-image: linear-gradient(to left, pink,red,purple); */
+}
+.eight img{
+    width: 290px;
+    margin-left: 40%;
+    margin-top: 30px;
+}
+.nine h1{
+    margin-left: 25%;
+    margin-top: 45px;
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+span{
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: #fff;
+    font-size: 50px;
+}
+.nine p{
+    color: #fff; 
+    /* margin-left: 50px; */
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 1px;
+}
+.ten{
+    display: flex;
+    gap: 10px;
+    margin-left: 150px;
+    margin-top: 80px;
+
+}
+.ten1{
+    background-image: url(./img/intro-card-1-15.png);
+    width: 15vw;
+    height: 28vh;
+
+}
+.ten1 img{
+    margin-top: 40px;
+    margin-left: 18px;
+}
+.ten2{
+    background-image: url(./img/intro-card-2-85.png);
+    width: 15vw;
+    height: 28vh;
+
+}
+.ten2 img{
+    margin-top: 70px;
+    margin-left: 18px;
+    width: 190px;
+}
+.ten3{
+    background-image: url(/img/intro-card-3-28.png);
+    width: 15vw;
+    height: 28vh;
+}
+.ten3 img{
+    margin-top: 80px;
+    margin-left: 18px;
+}
+.ten4{
+    background-image: url(/img/intro-card-4-95.png);
+    width: 15vw;
+    height: 28vh;
+}
+.ten4 img{
+    margin-top: 60px;
+    margin-left: 18px;
+}
+.ten5{
+    background-image: url(/img/intro-card-5-32.png);
+    width: 15vw;
+    height: 28vh;
+}
+.ten5 img{
+    width: 200px;
+    margin-top: 80px;
+    margin-left: 15px;
+    /* height: 40px; */
+}
+.loca img{
+    width: 100%;
+    height: 50vh;
+}
+.head3{
+    width: 100%;
+    height: 70vh;
+    background-color: rgb(25,25,35);
+}
+.po img{
+    margin-left: 150px;
+    margin-top: 110px;
+}
+.jo{
+    color: #fff;
+    margin-left: 460px;
+    margin-top: -30px;
+}
+.mon{
+    color: #fff;
+    margin-left: 800px;
+    margin-top: -300px;
+}
+.end i{
+    opacity: 60%;
+    width: 30px;
+    color: #fff;
+}
+.end{
+        margin-left: 85%;
+        margin-top: -140px;
+        
+}
+
