@@ -9,8 +9,8 @@
     background-size: cover;
 }
 .one i{
-color: #fff;
-width: 30px;
+  color: #fff;
+  width: 30px;
 
 }
 .one{
@@ -36,9 +36,6 @@ width: 30px;
 .three ul li{
     font-size: 18px;
 }
-.three ul li :hover{
-
-}
 .four{
     margin-left: 590px;
     margin-top: -39px;
@@ -48,13 +45,13 @@ width: 30px;
     background-color: transparent;
     border: none;
     font-size: 18px;
-    font-weight: bold ;
+    font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .le{
     color: white;
     font-size: 18px;
-    font-weight: bold ;
+    font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left: 48%;
     margin-top: -32px;
@@ -108,10 +105,6 @@ width: 30px;
     width: 110px;
     background-image: linear-gradient(to right,purple,red,pink);
     border: none;
-    
-}
-.seven button:hover{
-    /* background-image: linear-gradient(to left, pink,red,purple); */
 }
 .eight img{
     width: 290px;
